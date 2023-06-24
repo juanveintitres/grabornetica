@@ -24,6 +24,8 @@ Nadie quiere ser cola de ratón cuando puede ser, por lo menos, cabeza de ratón
 
 La gente se une cuando espera triunfar y se separa cuando espera perder.
 
+![Juan 23 Cibernetico](https://juanveintitres.github.io/grabornetica/imagenes/juan23-3.png)
+
 ## 3 - No existe la mala prensa
 
 Todo el país conoce a Grabois. 
