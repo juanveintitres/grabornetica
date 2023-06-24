@@ -8,7 +8,7 @@ Algunos creen que jugar a la lotería es irracional. Pero cuando se espera perde
 
 ## Cuando se espera perder, hay que maximizar la varianza
 
-La esperanza nos dice qué tan bien nos va a ir “en promedio”. La varianza, en cambio, nos dice cuánta diferencia habrá si nos va bien y si nos va mal.
+La esperanza nos dice qué tan bien nos va a ir “en promedio”. La varianza, en cambio, nos dice cuánta diferencia habrá si nos va bien contra si nos va mal.
 
 Intuitivamente, parece que hay que maximizar la esperanza. Pero en los juegos no lineales suele suceder lo contrario.
 
@@ -20,7 +20,7 @@ Continuando el escenario, si Grabois espera obtener un 27% de los votos con un m
 
 El escenario anterior ficticio pero ilustrativo de un fenómeno real. 
 
-Hay un ejemplo más cercano. Cuando un equipo de fútbol enfrenta un rival más habilidoso prefiere la cancha embarrada. Con ello, desea que el partido lo defina el azar. Cuando se espera perder, el azar permite el milagro. El determinismo lo impide. 
+Hay un ejemplo más cercano. Cuando un equipo de fútbol enfrenta un rival más habilidoso, prefiere la cancha embarrada. Con ello, desea que el partido lo defina el azar. Cuando se espera perder, el azar permite el milagro. El determinismo lo impide. 
 
 Cuando todas las encuestas anuncian la derrota del peronismo, solo es posible ganar *a lo Boca*.
 
