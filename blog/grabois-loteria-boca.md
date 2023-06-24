@@ -4,23 +4,25 @@
 
 Jugar a la lotería es comprar *varianza* con *esperanza.*
 
-Algunos creen que es irracional. Pero cuando ya se tiene la esperanza de perder, jugar a la lotería es la opción racional. 
+Algunos creen que jugar a la lotería es irracional. Pero cuando se espera perder, la lotería es la opción racional. 
 
 ## Cuando se espera perder, hay que maximizar la varianza
 
 La esperanza nos dice qué tan bien nos va a ir “en promedio”. La varianza, en cambio, nos dice cuánta diferencia habrá si nos va bien y si nos va mal.
 
-Intuitivamente, parece que hay que maximizar la esperanza. Pero en los juegos no lineales sucede lo contrario.
+Intuitivamente, parece que hay que maximizar la esperanza. Pero en los juegos no lineales suele suceder lo contrario.
 
-Para ilustrar el punto, imaginemos un escenario en que Juntos por el Cambio tiene asegurado un 36% de los votos. Cero margen de error, cero varianza.
+Para ilustrar este punto, imaginemos un escenario en que Juntos por el Cambio tiene asegurado un 36% de los votos. Cero margen de error, cero varianza.
 
-En ese mismo escenario, si Massa espera obtener un 30% de los votos con un margen de error del 5%, perderá de cualquier manera: saque el 25%, el 30% o el 35%, siempre obtendrá menos que el 36% de JxC.
+En ese mismo escenario, si Massa espera obtener un 30% de los votos con un margen de error del 5%, perderá: saque el 25%, el 30% o el 35%, siempre obtendrá menos que el 36% de JxC.
 
-Ahora bien, si en ese mismo escenario Grabois esperara obtener un 27% de los votos con un margen de error del 10%, sus probabilidades de ganar dejan de ser nulas. Aunque la esperanza disminuyó, ahora existe un escenario posible en que obtiene un 37% de los votos y obtiene la victoria.
+Continuando el escenario, si Grabois espera obtener un 27% de los votos con un margen de error del 10%, sus probabilidades de ganar dejan de ser nulas. Aunque la esperanza disminuye, ahora es posible obtener un 37% de los votos y, por lo tanto, la victoria.
 
-Este escenario es ficticio pero ilustrativo de un fenómeno real. 
+El escenario anterior ficticio pero ilustrativo de un fenómeno real. 
 
-Cuando un equipo de fútbol enfrenta un rival más habilidoso, se centra en la defensa. Desea que el partido lo defina el azar. Cuando se espera perder, el azar permite el milagro y el determinismo lo impide. Todas las encuestas anuncian la derrota del peronismo. Eso significa que sólo podremos ganar si ganamos *a lo Boca*.
+Hay un ejemplo más cercano. Cuando un equipo de fútbol enfrenta un rival más habilidoso prefiere la cancha embarrada. Con ello, desea que el partido lo defina el azar. Cuando se espera perder, el azar permite el milagro. El determinismo lo impide. 
+
+Cuando todas las encuestas anuncian la derrota del peronismo, solo es posible ganar *a lo Boca*.
 
 ![Juan 23 Cibernetico](https://juanveintitres.github.io/grabornetica/imagenes/juan23-2.png)
 
@@ -38,5 +40,5 @@ Y la política actual favorece a los oustiders.
 
 ## Bibliografía
 
-- The Black Swan - Nassim Taleb
-- Ergodicity Economics - Ole Peters
+- _The Black Swan_ - Nassim Taleb
+- _Ergodicity Economics_ - Ole Peters
