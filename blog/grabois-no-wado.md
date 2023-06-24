@@ -1,12 +1,8 @@
----
-layout: post
-title:  "Por Qué Grabois Tiene Que Ser Candidato"
-date:   2023-06-07
----
+# Por Qué Grabois Tiene Que Ser Candidato
 
-<p class="intro"><span class="dropcap">Grabois es el mejor candidato porque es un milei bueno.</span></p>
+**Grabois es el mejor candidato porque es un milei bueno.**
 
-Grabois dice que bajará su candidatura si Wado anuncia la propia. Muchos militantes concuerdan pero es una pésima idea. Grabois es lo más parecido que tenemos a Milei. Por eso tiene que ser candidato.
+Dice que bajará su candidatura si Wado anuncia la propia. Muchos militantes concuerdan pero es una pésima idea. Grabois es lo más parecido que tenemos a Milei. Por eso tiene que ser candidato.
 
 ## 1 - El argumento a favor de Wado es que puede “nuclear al peronismo”.
 
