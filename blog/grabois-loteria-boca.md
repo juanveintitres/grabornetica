@@ -22,6 +22,8 @@ Este escenario es ficticio pero ilustrativo de un fenómeno real.
 
 Cuando un equipo de fútbol enfrenta un rival más habilidoso, se centra en la defensa. Desea que el partido lo defina el azar. Cuando se espera perder, el azar permite el milagro y el determinismo lo impide. Todas las encuestas anuncian la derrota del peronismo. Eso significa que sólo podremos ganar si ganamos *a lo Boca*.
 
+![Juan 23 Cibernetico](https://juanveintitres.github.io/grabornetica/imagenes/juan23-2.png)
+
 ## Grabois maximiza la varianza
 
 Hay dos tipos de candidatos. Los *tradicionales* y los *outsiders*.
