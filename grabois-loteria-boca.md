@@ -1,10 +1,6 @@
----
-layout: post
-title:  "Varianza, Lotería, y Ganar *a lo Boca*"
-date:   2023-06-24
----
+# Varianza, Lotería, y Ganar *a lo Boca*
 
-<p class="intro"><span class="dropcap">Grabois es el mejor candidato porque es una lotería</span></p>
+**Grabois es el mejor candidato porque es una lotería.**
 
 Jugar a la lotería es comprar *varianza* con *esperanza.*
 
