@@ -18,7 +18,7 @@ En ese mismo escenario, si Massa espera obtener un 30% de los votos con un marge
 
 Continuando el escenario, si Grabois espera obtener un 27% de los votos con un margen de error del 10%, sus probabilidades de ganar dejan de ser nulas. Aunque la esperanza disminuye, ahora es posible obtener un 37% de los votos y, por lo tanto, la victoria.
 
-El escenario anterior ficticio pero ilustrativo de un fenómeno real. 
+El escenario anterior es ficticio pero ilustrativo de un fenómeno real. 
 
 Hay un ejemplo más cercano. Cuando un equipo de fútbol enfrenta un rival más habilidoso, prefiere la cancha embarrada. Con ello, desea que el partido lo defina el azar. Cuando se espera perder, el azar permite el milagro. El determinismo lo impide. 
 
