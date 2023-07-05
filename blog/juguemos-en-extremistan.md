@@ -7,6 +7,8 @@ Su libro comienza diferenciando dos mundos: Extremistán y Mediocristán, para l
 
 Esto es importante porque desde hace 20 años, la política se está mudando a Extremistán. Por eso fracasan las encuestas. Si aprovechamos su geografía, podemos lograr lo que parece imposible.
 
+![Juan 23 Cibernetico](https://juanveintitres.github.io/grabornetica/imagenes/juanveintitres3.png)
+
 ## Extremistán y Mediocristán
 
 Mediocristán es el mundo de las cosas quietas - o independientes entre sí. Cuando queremos hacer algo en Mediocristán, lo que ponemos es proporcional a lo que recibimos:
