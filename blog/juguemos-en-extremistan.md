@@ -19,9 +19,9 @@ Mediocristán es el mundo de las cosas quietas - o independientes entre sí. Cua
 
 Extremistán es el mundo de las cosas vivas o pasibles de mutua interacción. Cuando actuamos en Extremistán, una diferencia  pequeña en lo que ponemos genera grandes diferencias en lo que recibimos:
 
+- Un 10% de diferencia en la probabilidad de contagio de un virus puede definir si se trata de una pandemia o un virus contenido.
 - En el mercado financiero, una tasa de interés compuesto del 10% genera un 60% de ganancia en 5 años, mientras una tasa del 20% genera un 150% de ganancia en el mismo plazo (más del doble).
 - En las olimpiadas, dos segundos pueden marcar la diferencia entre el récord mundial y el olvido.
-- Un 10% de diferencia en la probabilidad de contagio de un virus puede definir si se trata de una pandemia o un virus contenido.
 
 Naturalmente, Mediocristán es predecible. Se modela con curvas normales y nada se aleja mucho de su esperanza estadística.
 
