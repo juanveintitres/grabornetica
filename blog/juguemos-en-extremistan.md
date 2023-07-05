@@ -39,7 +39,7 @@ Con las redes sociales, la política pasó a jugarse cada vez más en Extremist�
 
 Cuando la política se jugaba en Mediocristán, poseer el capital, los medios y el aparato político era suficiente para ganar elecciones.
 
-Cuanto más se juega en Extremistán, los ********outsiders******** se vuelven la norma. A veces ganan, a veces pierden, pero siempre sorprenden. La única regla es que su difusión, éxito y campaña se basa en redes sociales - porque es la comunicación en redes lo que genera el efecto multiplicativo de Extremisán.
+Cuanto más se juega en Extremistán, los *outsiders* se vuelven la norma. A veces ganan, a veces pierden, pero siempre sorprenden. La única regla es que su difusión, éxito y campaña se basa en redes sociales - porque es la comunicación en redes lo que genera el efecto multiplicativo de Extremisán.
 
 Cuando la política se jugaba en Mediocristán, nada se alejaba de su esperanza estadística. Las encuestas acertaban. Goliat le ganaba a David. Siempre. 
 
