@@ -5,7 +5,7 @@ El filósofo y economista *Nassim Taleb* escribió un libro sobre el impacto de 
 
 Su libro comienza diferenciando dos mundos: Extremistán y Mediocristán, para luego desarrollar su argumento: lo que en Mediocristán parece imposible suele darse en Extremistán.
 
-Esto es importante porque desde hace 20 años, la política se está mudando a Extremistán. Por eso fracasan las encuestas. Si aprovechamos su geografía, podemos lograr lo que parece imposible.
+Esto es importante porque desde hace 20 años, la política se está mudando a Extremistán. Si aprovechamos su geografía, podemos lograr lo que parece imposible.
 
 ![Juan 23 Cibernetico](https://juanveintitres.github.io/grabornetica/imagenes/juanveintitres3.png)
 
