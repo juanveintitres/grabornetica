@@ -36,7 +36,7 @@ Los *outsiders* tienen discursos extremos. Aparecen en situaciones de crisis. Le
 
 Massa es un candidato *tradicional*. Grabois es un *outsider.* 
 
-Y la política actual favorece a los oustiders.
+Y [la política actual favorece a los oustiders](https://juanveintitres.github.io/grabornetica/blog/juguemos-en-extremistan).
 
 ## Bibliografía
 
