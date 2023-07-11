@@ -95,7 +95,7 @@ Debemos superar el sesgo *pragmaticista*, que considera que la izquierda es infa
 </style>
 <div id="mc_embed_signup">
     <form action="https://github.us21.list-manage.com/subscribe/post?u=6c37c01438f92c3c71a5d11f5&amp;id=03d0401501&amp;f_id=00f05ce1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Suscribirse al Newsletter</h2>
+        <div id="mc_embed_signup_scroll"><h2>Suscribite al Newsletter Grabornético</h2>
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group"><label for="mce-EMAIL">Dirección de correo electrónico <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span></div>
         <div id="mce-responses" class="clear foot">
