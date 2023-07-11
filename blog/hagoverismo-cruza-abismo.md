@@ -84,7 +84,7 @@ Por su parte, la campaña de Grabois se ajusta a los valores del hagoverismo:
 
 Debemos superar el sesgo *pragmaticista*, que considera que la izquierda es infantil e ingenua, y que la única opción viable para el campo popular es la centroderecha no fascista. Contrastemos el pragmaticismo con [verdad](https://juanveintitres.github.io/grabornetica/blog/grabois-loteria-boca) y [ciencia](https://juanveintitres.github.io/grabornetica/blog/juguemos-en-extremistan) actualizadas y puras.
 
-**Tomás: Si llegás a leer esto, tenés la opción de hacer historia.**
+**Tomás: Si llegás a leer esto, tenés la oportunidad de hacer historia.**
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
