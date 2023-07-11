@@ -24,7 +24,7 @@ Pero convencer comunidades cada vez mayores puede encender el mundo.
 
 ## Cruzar El Abismo
 
-Los productos de alta tecnología tienen una particularidad: entender para qué sirven tiene un costo.
+Los productos de alta tecnología tienen una particularidad, que es que entender para qué sirven tiene costo.
 
 Esto genera un círculo vicioso: como no estoy seguro de si el producto me servirá, no quiero arriesgarme a esforzarme por entenderlo en vano. Entonces ni siquiera escucho la propuesta.
 
