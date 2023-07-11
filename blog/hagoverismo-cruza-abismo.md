@@ -2,11 +2,13 @@
 
 **Rebord es la clave para cruzar el abismo.**
 
+10/07/2023
+
 En 1991, Geofrey A. Moore escribió un libro llamado “[Cruzar el Abismo](https://en.wikipedia.org/wiki/Crossing_the_Chasm)”.
 
 Trataba sobre los desafíos de marketing para los productos de alta tecnología, pero sus consejos son aplicables siempre que se apunta a llegar al *mainstream* desde una posición innovadora y minoritaria.
 
-El libro fue un éxito, reeditado en 1999 y 2014, y continúa siendo una referencia central en el marketing digital. 
+El libro fue un éxito, fue reeditado en 1999 y 2014, y continúa siendo una referencia central en el marketing digital. 
 
 Hoy, la conclusión más importante que podemos extraer es que debemos lograr que Tomás Rebord se pronuncie en favor de Juan Grabois.
 
