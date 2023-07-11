@@ -26,7 +26,7 @@ Pero convencer comunidades cada vez mayores puede encender el mundo.
 
 Los productos de alta tecnología tienen una particularidad: entender para qué sirven tiene un costo.
 
-Esto genera un círculo vicioso: no estoy seguro de que el producto me servirá, y no quiero arriesgarme a esforzarme por entenderlo en vano. Entonces ni siquiera escucho la propuesta.
+Esto genera un círculo vicioso: como no estoy seguro de si el producto me servirá, no quiero arriesgarme a esforzarme por entenderlo en vano. Entonces ni siquiera escucho la propuesta.
 
 Una manera de sortear esta dificultad es con garantías sociales o comunitarias.
 
