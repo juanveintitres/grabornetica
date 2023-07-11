@@ -20,6 +20,8 @@ Asimismo, intentar convencer a la sociedad es infructuoso.
 
 Pero convencer comunidades cada vez mayores puede encender el mundo.
 
+![Juan 23 Cibernetico](https://juanveintitres.github.io/grabornetica/imagenes/juan23-5.png)
+
 ## Cruzar El Abismo
 
 Los productos de alta tecnología tienen una particularidad: entender para qué sirven tiene un costo.
