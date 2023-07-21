@@ -120,9 +120,11 @@ Pero trescientos estados y cientos de miles de bancos forman un sistema más des
 
 Los pioneros y entusiastas de la blockchain tienen un sistema de valores y una formación que es fundamental para rediseñar el futuro. Ven la importancia de la transparencia, y entienden que es posible la organización descentralizada por medio del diseño de mecanismos para alinear los intereses individuales y los colectivos.
 
-El problema es que el arbol no deja ver el bosque, y el efecto social de la tecnología blockchain es contraproducente por cuellos de botella informáticos y sistémicos. Además, es monetariamente conveniente ignorar estas contradicciones cuando desarrollarla es un buen negocio, lo cual vuelve [genuinamente más difícil](https://es.wikipedia.org/wiki/Disonancia_cognitiva) llevar a cabo estas reflexiones.
+Pero el arbol no deja ver el bosque. 
 
-Blockchain no es la respuesta, pero diseñar un futuro que descentralice el poder será más fácil gracias al trabajo de sus entusiastas.
+El efecto social de blockchain es contraproducente por cuellos de botella informáticos y sistémicos. Además es conveniente ignorar estas contradicciones mientras exista un buen negocio, lo cual [vuelve más difícil](https://es.wikipedia.org/wiki/Disonancia_cognitiva) reflexionar sobre estos puntos.
+
+Blockchain no es la respuesta, pero diseñar un futuro justo será más fácil gracias al trabajo de sus entusiastas.
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
