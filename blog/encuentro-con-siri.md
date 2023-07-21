@@ -73,12 +73,11 @@ Santiago Siri dice tener una solución que podría garantizar el principio de 1 
 
 La [tecnología](https://proofofhumanity.id/) que propone usa [redes de confianza](https://es.wikipedia.org/wiki/Red_de_confianza). 
 
-Las redes de confianza son incompatibles con el principio fundacional de la blockchain de la desconfianza radical, también llamado [problema de los generales bizantinos](https://es.wikipedia.org/wiki/Problema_de_los_generales_bizantinos).
+Las redes de confianza son incompatibles con el principio fundacional de la blockchain de que es la desconfianza radical, también llamada [problema de los generales bizantinos](https://es.wikipedia.org/wiki/Problema_de_los_generales_bizantinos).
 
-Una transacción en bitcoin cuesta dos millones de veces lo que una tradicional precisamente para evitar la “vulnerabilidad” de las redes de confianza. Construir un protocolo dos millones de veces más caro por desconfiar de una tecnología para luego implementar esa tecnología sobre el protocolo es una un descuido importante.
+Una transacción en bitcoin cuesta dos millones de veces lo que una tradicional precisamente para evitar la “vulnerabilidad” de las redes de confianza. Construir un protocolo dos millones de veces más caro **por desconfiar de una tecnología** para luego **implementar esa misma tecnología sobre el protocolo dos millones de veces más caro** es, en el mejor de los casos, un descuido.
 
-> Veo, revisando la página, que esto está afirmado abiertamente en la página de *proof of humanity*. Cuando primero investigué la tencología no se afirmaba en ningún lado. Parecía oculto. Tardé en convencer a colegas de que efectivamente la tecnología se trataba de redes de confianza ***with extra steps***. Estoy convencido de que lo modificó tras escuchar esta objeción.
-
+> Veo, revisando la página, que la apelación a redes de confianza se asume abiertamente en la página de *proof of humanity*. Cuando primero investigué la tencología esto no se afirmaba en ningún lado. Parecía oculto. De hecho, tardé en convencer a colegas de que efectivamente la tecnología se trataba de redes de confianza ***with extra steps***. Estoy convencido de que lo modificó tras escuchar esta objeción.
 
 ### La transparencia es más barata:
 
