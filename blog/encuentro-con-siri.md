@@ -6,27 +6,27 @@ Grabois habló a favor de blockchain.
 
 Destacó la descentralización y la transparencia como valores.
 
-Estos valores son expuestos con buenas intenciones pero nacen de un error conceputal fundamental: blockchain descentraliza el cómputo, pero descentralizar el cómputo no implica descentralizar el poder.
+Estos valores son expuestos con buenas intenciones pero nacen de un error conceputal: blockchain descentraliza el cómputo, pero descentralizar el cómputo no implica descentralizar el poder.
 
-De hecho, con las criptomonedas, sucede todo lo contrario. Pasó exactamente lo mismo cuando surgió internet.
+De hecho, con las criptomonedas, sucede todo lo contrario. Pasó lo mismo con internet.
 
 ## El ejemplo de Internet
 
 En los años 80 se terminó de desarrollar el estándar TCP/IP. TCP/IP es un protocolo que organiza la comunicación sin una autoridad centralizada.
 
-Por ejemplo, las computadoras se organizan solas para pasarse cualquier correo desde mi computadora hasta la de mi amigo Yanis Varoufakis, en Grecia. Y hasta podrían enviarlo de vuelta si alguna vez me respondiera.
+Por ejemplo, las computadoras se pueden organizarse solas, sin ninguna dirección central, para pasarse de mano en mano un correo electrónico desde mi computadora en Argentina hasta la de mi amigo Yanis Varoufakis, en Grecia. Y hasta podrían enviarlo de vuelta si alguna vez él se dignara a responderme.
 
-La descentralización del cómputo asociado a las comunicaciones parecía descentralizar el poder. Se proyectó una utopía en internet. Tim Berners Lee, el diseñador de la WWW, soñaba un futuro de libertad de información y pensamiento comunitario sin precedentes.
+Todos creían que la descentraliación del cómputo asociado a TCP/IP descentralizaría el poder en las comunicaciones. Se proyectó una utopía sobre internet. Tim Berners Lee, el diseñador de la WWW, genuinamente soñaba un futuro de libertad de información y pensamiento comunitario sin precedentes.
 
-Hoy más del 60% del tráfico en internet está mediado por Google, Netflix, y Meta. Concentran un poder inmenso y dominan la comunicación en la red social.
+Hoy, más del 60% del tráfico en internet está mediado por Google, Netflix, y Meta. Concentran un poder mucho mayor sobre las comunicaciones al que antes concentraban los periódicos, las editoriales o la televisión, al revés de lo previsto.
 
-El cómputo se había centralizado, pero el poder no. ¿Por qué?
+El cómputo se había centralizado, pero el poder se había concentrado más que antes. ¿Por qué?
 
-Porque hay una puerta de entrada entre los humanos y TCP/IP: las aplicaciones. Y cuando las aplicaciones se centralizan, el poder en internet se centraliza. 
+Porque hay una **puerta de entrada** entre los humanos y TCP/IP: las aplicaciones. Y cuando las aplicaciones se centralizan, el poder en internet se centraliza. 
 
-Las aplicaciones monopolizan internet por los [efectos de red](https://es.wikipedia.org/wiki/Efecto_de_red), el mecanismo que hace a la centralización: cuando el valor que ofrece una plataforma es proporcional a su cantidad de usuarios, todos tienden a usar la misma.
+Las aplicaciones monopolizan internet por los [efectos de red](https://es.wikipedia.org/wiki/Efecto_de_red), el mecanismo de la centralización: cuando el valor que ofrece una plataforma es proporcional a su cantidad de usuarios, todos tienden a usar la misma.
 
-Los pioneros de internet que aún preservan sus ideales se desilusionan al ver el estado actual de internet, porque genuinamente creían en sus valores. Pero en la práctica, si el camino de entrada tiene dueño, Lago Escondido tiene dueño, aunque el agua sea de todos. Con las criptomonedas pasa lo mismo.
+Los pioneros de internet que aún preservan sus ideales se desilusionan porque creían en sus valores. Pero resultaba que en la práctica, cuando el camino de entrada tiene dueño, Lago Escondido tiene dueño. No importa si el agua sea de todos. Con internet pasaba lo mismo, y con las criptomonedas también.
 
 ![Juan 23 Criptornetico](https://juanveintitres.github.io/grabornetica/imagenes/juan23-6.png)
 
