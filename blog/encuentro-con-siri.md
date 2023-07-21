@@ -98,6 +98,13 @@ Ya hay dinero más descentralizado, que no tiene un cuello de botella transaccio
 
 Si confiamos en las redes de confianza, los bancos lo pueden enviar de modo más barato. Y más descentralizado. Y regulado por los estados, democráticamente.
 
+Blockchain se construye contra los estados y los bancos. Hay trescientos estados y cientos de miles de bancos. 
+
+La posesión del oro es descentralizada, igual que la de una bitcoin en su wallet. 
+
+La mediación no tanto, porque hay trescientos estados y cientos de miles de bancos en el medio. 
+
+Pero trescientos estados y cientos de miles de bancos forman un sistema más descentralizado que un Binance.
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
@@ -129,12 +136,3 @@ Si confiamos en las redes de confianza, los bancos lo pueden enviar de modo más
 </form>
 </div>
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]=EMAIL;ftypes[0]=merge;,fnames[1]=FNAME;ftypes[1]=merge;,fnames[2]=LNAME;ftypes[2]=merge;,fnames[3]=ADDRESS;ftypes[3]=merge;,fnames[4]=PHONE;ftypes[4]=merge;,fnames[5]=BIRTHDAY;ftypes[5]=merge;false}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
-
-
-Blockchain se construye contra los estados y los bancos. Hay trescientos estados y cientos de miles de bancos. 
-
-La posesión del oro es descentralizada, igual que la de una bitcoin en su wallet. 
-
-La mediación no tanto, porque hay trescientos estados y cientos de miles de bancos en el medio. 
-
-Pero trescientos estados y cientos de miles de bancos forman un sistema más descentralizado que un Binance.
