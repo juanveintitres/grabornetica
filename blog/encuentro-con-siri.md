@@ -14,7 +14,7 @@ De hecho, con las criptomonedas, sucede todo lo contrario. Pasó lo mismo con in
 
 En los años 80 se terminó de desarrollar el estándar TCP/IP. TCP/IP es un protocolo que organiza la comunicación sin una autoridad centralizada.
 
-Por ejemplo, las computadoras se pueden organizarse solas, sin ninguna dirección central, para pasarse de mano en mano un correo electrónico desde mi computadora en Argentina hasta la de mi amigo Yanis Varoufakis, en Grecia. Y hasta podrían enviarlo de vuelta si alguna vez él se dignara a responderme.
+Por ejemplo, las computadoras pueden organizarse solas, sin ninguna dirección central, para pasarse de mano en mano un correo electrónico desde mi computadora en Argentina hasta la de mi amigo Yanis Varoufakis, en Grecia. Y hasta podrían enviarlo de vuelta si alguna vez él se dignara a responderme.
 
 Todos creían que la descentraliación del cómputo asociado a TCP/IP descentralizaría el poder en las comunicaciones. Se proyectó una utopía sobre internet. Tim Berners Lee, el diseñador de la WWW, genuinamente soñaba un futuro de libertad de información y pensamiento comunitario sin precedentes.
 
