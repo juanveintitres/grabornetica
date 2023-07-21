@@ -2,6 +2,8 @@
 
 Por un enfoque _bottom up_, en la política y el modelado.
 
+Cuando sea grande quiero ser el Laclau del graboisianismo.
+
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
