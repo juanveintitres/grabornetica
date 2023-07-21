@@ -100,9 +100,9 @@ Hay dos opciones:
 >
 > Lamentablemente esto no termina de solucionar el problema ambiental, porque el consumo energético es proporcional a las computadoras poseidas, no a las personas con la intención de "minar". Y los miembros ricos de las redes poseen más computadoras (la distribución tiende a ser exponencial (!)).
 >
-> Tampoco soluciona el problema del cuello de botella transaccional que mencionamos. El *proof of stake* habla de cómo se implementa una blockchain (central) sobre muchas computadoras al mismo tiempo. Después los *smart contracts*, las *virtual machines* y cualquier transacción cripto entre pares se implementaría sobre esa blockchain centralizada. El cuello de botella es esa misma *blockchain*.
+> Tampoco soluciona el problema del cuello de botella transaccional que mencionamos. El *proof of stake* habla de cómo se implementa una blockchain (central) sobre muchas computadoras al mismo tiempo. Después los *smart contracts*, las *virtual machines* y cualquier transacción cripto entre pares se implementarían sobre esa blockchain centralizada. El cuello de botella es esa misma *blockchain*.
 >
-> No es quisquilloso decir que solucionar los problemas fundamentales de blockchain traiciona sus principios, sino optimista. Lo quisquilloso fue diseñar un protocolo ambiental y energéticamente insostenible por no querer confiar en nada ni nadie.  Está bien entender que para que las cosas funcionen hay que confiar en alguien. El problema es no reevaluar el uso de blockchain 
+> No es quisquilloso decir que solucionar los problemas fundamentales de blockchain traiciona sus principios, sino optimista. Lo quisquilloso fue diseñar un protocolo ambiental y energéticamente insostenible por no querer confiar en nada ni nadie.  Está bien entender que para que las cosas funcionen hay que confiar en algo por lo menos. El problema es no reevaluar el uso de blockchain como solución una vez comprendido esto.
 
 Ya hay dinero más descentralizado, que no tiene un cuello de botella transaccional. Es el oro. 
 
