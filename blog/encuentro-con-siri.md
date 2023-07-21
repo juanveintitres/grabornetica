@@ -35,7 +35,7 @@ Los pioneros de internet que aún preservan sus ideales se desilusionan porque c
 
 Eso que pasa con las aplicaciones y el camino de entrada a Lago Escondido pasa también con las criptomonedas.
 
-Para entrar y salir del mundo cripto, necesitamos alguna moneda de circulación cotidiana (por ejemplo, dólares, pero el razonamiento vale también para billetes de mil pesos o una suma de Yuanes digitales en un banco).
+Para entrar y salir del mundo cripto, necesitamos alguna moneda de circulación cotidiana (por ejemplo, dólares, pero el razonamiento vale también para billetes de mil pesos o una suma de yuanes digitales en un banco).
 
 Entonces es necesario un mecanismo que permita que yo pueda dar mil pesos y obtener su equivalente en bitcoin, y viceversa.
 
@@ -59,6 +59,8 @@ Pero si, en cambio, tiene otros clientes y genera más que mis mil pesos y una g
 
 Entonces, el volumen de transacciones que le confiaría a un intermediario es proporcional al volumen de transacciones que ya maneja. Al igual que con internet, la puerta de entrada al mundo cripto es pasible de efectos de red, y en la práctica, termina siendo un lago de propiedad privada aunque el agua sea de todos.
 
+> El mismo problema de la puerta de entrada se da con las NFTs y cualquier forma de propiedad digital. Hay quienes siguen hablando del metaverso, un mundo simulado que pueda garantizar propiedad de ítems digitales mediante NFTs. Sin embargo, ese mundo se simulará naturalmente en servidores centralizados (por costos computacionales y efectos de red). Que un servidor centralizado decida renderizar o no una gorra con la cara de un mono es independiente de lo que diga la blockchain. Que Twitter incluya un hexágono de autenticidad sobre las NFTs es una decisión de Twitter, no de la blockchain.
+
 ## Otras observaciones:
 
 ### 1 - Las cooperativas no son DAOs
@@ -67,32 +69,40 @@ El protocolo blockchain no tiene un método de garantizar una dinámica de 1 per
 
 En consecuencia, los votos en las DAOs están tokenizados. Esto es análogo a decir que el voto de cada persona vale tanto como el dinero que posee. Las DAOs son plutocracias, no cooperativas.
 
-### El “proof of humanity” de Santiago Siri es falaz
+### 2 - El “proof of humanity” de Santiago Siri es falaz
 
 Santiago Siri dice tener una solución que podría garantizar el principio de 1 persona = 1 voto.
 
 La [tecnología](https://proofofhumanity.id/) que propone usa [redes de confianza](https://es.wikipedia.org/wiki/Red_de_confianza). 
 
-Las redes de confianza son incompatibles con el principio fundacional de la blockchain de que es la desconfianza radical, también llamada [problema de los generales bizantinos](https://es.wikipedia.org/wiki/Problema_de_los_generales_bizantinos).
+Las redes de confianza son incompatibles con el principio fundacional de la blockchain que es la desconfianza radical, también llamada [problema de los generales bizantinos](https://es.wikipedia.org/wiki/Problema_de_los_generales_bizantinos).
 
-Una transacción en bitcoin cuesta dos millones de veces lo que una tradicional precisamente para evitar la “vulnerabilidad” de las redes de confianza. Construir un protocolo dos millones de veces más caro **por desconfiar de una tecnología** para luego **implementar esa misma tecnología sobre el protocolo dos millones de veces más caro** es, en el mejor de los casos, un descuido.
+Una transacción en bitcoin cuesta dos millones de veces lo que una tradicional precisamente para evitar la “vulnerabilidad” de las redes de confianza. Construir un protocolo dos millones de veces más caro **por desconfiar de una tecnología** para luego **implementar esa misma tecnología sobre el protocolo dos millones de veces más costoso** es, en el mejor de los casos, un descuido.
 
-> Veo, revisando la página, que la apelación a redes de confianza se asume abiertamente en la página de *proof of humanity*. Cuando primero investigué la tencología esto no se afirmaba en ningún lado. Parecía oculto. De hecho, tardé en convencer a colegas de que efectivamente la tecnología se trataba de redes de confianza ***with extra steps***. Estoy convencido de que lo modificó tras escuchar esta objeción.
+> Veo, revisando la página de *proof of humanity*, que la apelación a redes de confianza se asume abiertamente. Cuando primero investigué la tencología esto no se afirmaba en ningún lado. Parecía oculto. De hecho, tardé en convencer a colegas de que efectivamente la tecnología se trataba de redes de confianza *with extra steps*. Estoy convencido de que lo modificó tras escuchar esta objeción.
 
-### La transparencia es más barata:
+### 3 - La transparencia es más barata:
 
 Blockchain es transparente, pero la transparencia se puede garantizar con software libre en general.
 
 Si ya se admiten las redes de confianza como tecnología, hay una infinidad de protocolos que garantizan los principios de bitcoin sin destruir el medio ambiente.
 
-### El cuello de botella transaccional
+### 4 - El cuello de botella transaccional
 
 No se puede organizar la economía de la humanidad sobre tecnología blockchain sin traicionar sus principios. 
 
 Hay dos opciones: 
 
-- O se tiene una blockchain central que se ejecuta de manera horizontal y distribuida, lo cual genera un cuello de botella para el cómputo incapaz de sostener el volumen de transacciones necesarias para la economía.
-- O se tiene una red de confianza de algún tipo, incompatible con el principio fundacional de la blockchain de los generales bizantinos.
+- O se tiene una blockchain central que se ejecuta de manera horizontal y distribuida, lo cual genera un cuello de botella para el cómputo incapaz de sostener el volumen de transacciones necesarias para la economía,
+- o se tiene una red de confianza de algún tipo, incompatible con el principio fundacional de la blockchain de los generales bizantinos.
+
+> Paréntesis técnico: Hay una técnica llamada *proof of stake*  que se presenta como solución a este problema. Consiste en dar más poder de decisión a los miembros más "ricos" de la red. En otras palabras, se rediseña el protocolo para que participar de las decisiones sea menos costoso para los "ricos" y más costoso para los "pobres", desincentivando así que la mayoría pobre consuma energía y cómputo por intentar participar de las decisiones.
+>
+> Lamentablemente esto no termina de solucionar el problema ambiental, porque el consumo energético es proporcional a las computadoras poseidas, no a las personas con la intención de "minar". Y los miembros ricos de las redes poseen más computadoras (la distribución tiende a ser exponencial (!)).
+>
+> Tampoco soluciona el problema del cuello de botella transaccional que mencionamos. El *proof of stake* habla de cómo se implementa una blockchain (central) sobre muchas computadoras al mismo tiempo. Después los *smart contracts*, las *virtual machines* y cualquier transacción cripto entre pares se implementaría sobre esa blockchain centralizada. El cuello de botella es esa misma *blockchain*.
+>
+> No es quisquilloso decir que solucionar los problemas fundamentales de blockchain traiciona sus principios, sino optimista. Lo quisquilloso fue diseñar un protocolo ambiental y energéticamente insostenible por no querer confiar en nada ni nadie.  Está bien entender que para que las cosas funcionen hay que confiar en alguien. El problema es no reevaluar el uso de blockchain 
 
 Ya hay dinero más descentralizado, que no tiene un cuello de botella transaccional. Es el oro. 
 
@@ -104,7 +114,15 @@ La posesión del oro es descentralizada, igual que la de una bitcoin en su walle
 
 La mediación no tanto, porque hay trescientos estados y cientos de miles de bancos en el medio. 
 
-Pero trescientos estados y cientos de miles de bancos forman un sistema más descentralizado que un Binance.
+Pero trescientos estados y cientos de miles de bancos forman un sistema más descentralizado, transparente y auditado democráticamente que un (!) Binance.
+
+## Conclusión
+
+Los pioneros y entusiastas de la blockchain tienen un sistema de valores y una formación que es fundamental para rediseñar el futuro. Ven la importancia de la transparencia, y entienden que es posible la organización descentralizada por medio del diseño de mecanismos para alinear los intereses individuales y los colectivos.
+
+El problema es que el arbol no deja ver el bosque, y el efecto social de la tecnología blockchain es contraproducente por cuellos de botella informáticos y sistémicos. Además, es monetariamente conveniente ignorar estas contradicciones cuando desarrollarla es un buen negocio, lo cual vuelve [genuinamente más difícil](https://es.wikipedia.org/wiki/Disonancia_cognitiva) llevar a cabo estas reflexiones.
+
+Blockchain no es la respuesta, pero diseñar un futuro que descentralice el poder será más fácil gracias al trabajo de sus entusiastas.
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
