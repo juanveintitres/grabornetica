@@ -33,6 +33,7 @@ Por un enfoque _bottom up_, en la política y el modelado.
 </div>
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]=EMAIL;ftypes[0]=merge;,fnames[1]=FNAME;ftypes[1]=merge;,fnames[2]=LNAME;ftypes[2]=merge;,fnames[3]=ADDRESS;ftypes[3]=merge;,fnames[4]=PHONE;ftypes[4]=merge;,fnames[5]=BIRTHDAY;ftypes[5]=merge;false}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
 
+- [**Encuentro con Siri**](https://juanveintitres.github.io/grabornetica/blog/encuentro-con-siri): La blockchain no funciona como creen!
 - [**Hagoverismo Para Cruzar El Abismo**](https://juanveintitres.github.io/grabornetica/blog/hagoverismo-cruza-abismo): Rebord es la clave para cruzar el abismo.
 - [**Juguemos en Extremistán**](https://juanveintitres.github.io/grabornetica/blog/juguemos-en-extremistan): Grabois es el mejor candidato porque puede ser un "Cisne Negro".
 - [**Varianza, Lotería, y Ganar A Lo Boca**](https://juanveintitres.github.io/grabornetica/blog/grabois-loteria-boca): Grabois es el mejor candidato porque es una lotería.
