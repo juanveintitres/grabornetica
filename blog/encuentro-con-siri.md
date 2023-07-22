@@ -20,13 +20,17 @@ Todos creían que la descentraliación del cómputo asociado a TCP/IP descentral
 
 Hoy, más del 60% del tráfico en internet está mediado por Google, Netflix, y Meta. Concentran un poder mucho mayor sobre las comunicaciones al que antes concentraban los periódicos, las editoriales o la televisión, al revés de lo previsto.
 
-El cómputo se había centralizado, pero el poder se había concentrado más que antes. ¿Por qué?
+El cómputo se había descentralizado, pero el poder se había concentrado más que antes. ¿Por qué?
 
 Porque hay una **puerta de entrada** entre los humanos y TCP/IP: las aplicaciones. Y cuando las aplicaciones se centralizan, el poder en internet se centraliza. 
 
 Las aplicaciones monopolizan internet por los [efectos de red](https://es.wikipedia.org/wiki/Efecto_de_red), el mecanismo de la centralización: cuando el valor que ofrece una plataforma es proporcional a su cantidad de usuarios, todos tienden a usar la misma.
 
-Los pioneros de internet que aún preservan sus ideales se desilusionan porque creían en sus valores. Pero resulta que en la práctica, si el camino de entrada tiene dueño, Lago Escondido tiene dueño. No importa que el agua sea de todos. Con internet pasaba lo mismo, y con las criptomonedas también.
+Los pioneros de internet que aún preservan sus ideales se desilusionan porque creían en sus valores. 
+
+Pero resulta que en la práctica, si el camino de entrada tiene dueño, Lago Escondido tiene dueño. No importa que el agua sea de todos. 
+
+Con internet pasaba lo mismo, y con las criptomonedas también.
 
 ![Juan 23 Criptornetico](https://juanveintitres.github.io/grabornetica/imagenes/juan23-6.png)
 
