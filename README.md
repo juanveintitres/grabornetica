@@ -35,7 +35,7 @@ Cuando sea grande quiero ser el Laclau del graboisianismo.
 </div>
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]=EMAIL;ftypes[0]=merge;,fnames[1]=FNAME;ftypes[1]=merge;,fnames[2]=LNAME;ftypes[2]=merge;,fnames[3]=ADDRESS;ftypes[3]=merge;,fnames[4]=PHONE;ftypes[4]=merge;,fnames[5]=BIRTHDAY;ftypes[5]=merge;false}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
 
-- [**Descentralizar la Conducción**](https://juanveintitres.github.io/grabornetica/blog/descentralizar-la-conduccion): Tres acciones para descentralizar la conducción.
+- [**Descentralizar la Conducción**](https://juanveintitres.github.io/grabornetica/blog/descentralizar-conduccion): Tres acciones para descentralizar la conducción.
 - [**Encuentro con Siri**](https://juanveintitres.github.io/grabornetica/blog/encuentro-con-siri): La blockchain no funciona como creen!
 - [**Hagoverismo Para Cruzar El Abismo**](https://juanveintitres.github.io/grabornetica/blog/hagoverismo-cruza-abismo): Rebord es la clave para cruzar el abismo.
 - [**Juguemos en Extremistán**](https://juanveintitres.github.io/grabornetica/blog/juguemos-en-extremistan): Grabois es el mejor candidato porque puede ser un "Cisne Negro".
