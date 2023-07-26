@@ -1,8 +1,11 @@
 # Tres acciones para descentralizar la conducción
 
 Faltan 19 días para las paso.
+
 Hay mucha iniciativa popular y pocas manos en la organización de la campaña.
+
 Todo cuello de botella es un obstáculo más para ganarle a Goliat.
+
 Las condiciones están y el tiempo alcanza, pero debemos actuar rápido y adaptarnos a circunstancias inesperadas.
 
 ## Resumen
