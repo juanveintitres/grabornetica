@@ -34,7 +34,7 @@ Queremos hacer historia en el siglo XXI. Podemos hacerlo.
 
 Hay muchas personas a las que no llegamos. 
 
-La demografía tiene distribución de “cola larga”. Hay pocas ciudades y barrios con mucha gente y muchas ciudades y barrios con poca gente.
+La población tiene distribución de “cola larga”. Hay pocas ciudades y barrios con mucha gente y muchas ciudades y barrios con poca gente.
 
 En total, hay más gente en la “cola larga” que en la “cabeza”.
 
@@ -101,3 +101,9 @@ Algunas ideas que se me ocurren (como ejemplos, escribiendo rápido):
 - Establecer análisis de datos en redes para identificar grupos y/o espacios de mayor retorno a la inversión de los recursos de militancia.
 - Escribir volantes innovadores, con QRs que guíen videos de campaña y tracking por UTMs para estudiar qué volantes funcionan mejor que otrxs.
 - Recortar clips de propuestas concretas de Juan Grabois para que otrxs puedan utilizar en sus campañas.
+
+## Mostrar esta iniciativa popular
+
+Apenas cualquiera de estas acciones empiece a funcionar, tenemos que mostrar constantemente esta iniciativa popular en redes.
+
+Eso fomentará la participación y construirá mística hacia el país que queremos construir.
