@@ -99,7 +99,7 @@ Por esto, una tarea fundamental para la conducción es abrir un “backlog” de
 Algunas ideas que se me ocurren (como ejemplos, escribiendo rápido):
 
 - Establecer análisis de datos en redes para identificar grupos y/o espacios de mayor retorno a la inversión de los recursos de militancia.
-- Escribir volantes innovadores, con QRs que guíen videos de campaña y tracking por UTMs para estudiar qué volantes funcionan mejor que otrxs.
+- Escribir volantes innovadores, con QRs que guíen a videos de grabois hablando y tracking por UTMs para estudiar qué volantes funcionan mejor que otrxs.
 - Recortar clips de propuestas concretas de Juan Grabois para que otrxs puedan utilizar en sus campañas.
 
 ## Mostrar esta iniciativa popular
