@@ -104,6 +104,9 @@ Algunas ideas que se me ocurren (como ejemplos, escribiendo rápido):
 - Establecer análisis de datos en redes para identificar grupos y/o espacios de mayor retorno a la inversión de los recursos de militancia.
 - Escribir volantes innovadores, con QRs que guíen a videos de grabois hablando y tracking por UTMs para estudiar qué volantes funcionan mejor que otrxs.
 - Recortar clips de propuestas concretas de Juan Grabois para que otrxs puedan utilizar en sus campañas.
+- Abrir el repositorio de "creatividad popular" (o una copia mínimamente curada para excluir contenidos malitencionados).
+- Establecer un proceso para compartir contenidos y materiales para la campaña de Grabois. Que permita a lxs usuarixs dar "me gusta" para que la propia comunidad le de relevancia a los contenidos y materiales de mejor calidad.
+- Cambiar el drive de "kit de militancia" por una _landing page_ que explique cómo usar cada material.
 
 ## Mostrar esta iniciativa popular
 
